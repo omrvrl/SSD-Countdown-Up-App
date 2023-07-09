@@ -1,0 +1,6 @@
+ssd_numbers.c:14:6:wait	2
+ssd_numbers.c:20:6:ssd_init	1
+ssd_numbers.c:76:6:number_on	12
+ssd_numbers.c:159:6:number_off	1
+ssd_numbers.c:173:6:count_down	1
+ssd_numbers.c:241:6:count_up	1

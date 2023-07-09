@@ -1,0 +1,6 @@
+../Drivers/Modules/ssd_numbers.c:14:6:wait	24	static
+../Drivers/Modules/ssd_numbers.c:20:6:ssd_init	8	static
+../Drivers/Modules/ssd_numbers.c:76:6:number_on	16	static
+../Drivers/Modules/ssd_numbers.c:159:6:number_off	4	static
+../Drivers/Modules/ssd_numbers.c:173:6:count_down	16	static
+../Drivers/Modules/ssd_numbers.c:241:6:count_up	16	static
